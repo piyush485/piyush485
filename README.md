@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyush485
-- 👀 I’m interested in Cyber Security and AI
-- 🌱 I’m currently learning how to create AI based models
+- 👀 I’m interested in Cyber Security and Web Development.
+- 🌱 I’m currently learning how to create web-apps using PHP.
 - 💞️ I’m looking to collaborate on the project related to real-life management projects
 - 📫 How to reach me - email- pandey129piyush@gmail.com
 
