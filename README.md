@@ -71,10 +71,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📬 Let's Connect
 
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyush485&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush485&layout=compact&theme=tokyonight&hide_border=true)
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [linkedin.com/in/PiyushPandey](https://linkedin.com/in/PiyushPandey) |
+| 📧 Email | pandey1289piyush@gmail.com |
 
 ---
 
